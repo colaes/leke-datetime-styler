@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "时间选择器",
+  "usingComponents": {
+    "leke-datetime-styler": "../../components/leke-datetime-styler"
+  }
+}
